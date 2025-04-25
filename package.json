@@ -69,16 +69,16 @@
     "tsx": "latest",
     "yaml": "latest",
     "vite": "latest",
-    "chart.js": "latest",
     "eslint": "latest",
+    "chart.js": "latest",
     "@vitejs/plugin-react": "latest",
-    "react-chartjs-2": "latest",
     "react-router-dom": "latest",
     "@eslint/js": "latest",
     "globals": "latest",
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-react-refresh": "latest",
-    "typescript-eslint": "latest"
+    "typescript-eslint": "latest",
+    "react-chartjs-2": "latest"
   },
   "devDependencies": {
     "@types/node": "^22",
